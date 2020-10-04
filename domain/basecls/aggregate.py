@@ -1,4 +1,4 @@
-from .enity import Entity
+from .entity import Entity
 
 
 class AggregateRoot(Entity):
